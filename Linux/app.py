@@ -3,7 +3,7 @@ import pandas as pd
 from update_api_key import update_api_key
 global listhehe
 listhehe= []
-openai.api_key = ""
+openai.api_key = " "
 model_engine = "gpt-3.5-turbo"
     
 def get_bulletpoints(link):
